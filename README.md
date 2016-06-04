@@ -1,2 +1,2 @@
 # test
-This is a test commet
+This is a test commit
